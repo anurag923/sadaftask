@@ -1,0 +1,56 @@
+    body {
+        font-family: 'Nunito', sans-serif!important;
+    }
+    
+    .btn-link {
+        color: black!important;
+        text-decoration: none!important;
+    }
+    
+    .up {
+        /* background-color: #eaf0ff!important; */
+        background-image: url('../images/image.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    
+    .btn:focus {
+        outline: none!important;
+        box-shadow: none!important;
+    }
+    
+    img.card-img-top {
+        width: 50px!important;
+        height: 50px!important;
+    }
+    
+    img.card-img-tops {
+        width: 50px!important;
+        height: 50px!important;
+    }
+    
+    img.card-img-topss {
+        width: 20px!important;
+        height: 20px!important;
+    }
+    
+    .main_col {
+        background-color: #4e73ca;
+    }
+    
+    span.navbar-brand.mb-0.h1 {
+        color: #fff;
+    }
+    
+    .cart_color {
+        color: #fff!important;
+    }
+    
+    .fa-inverse {
+        color: #4e73ca!important;
+        margin-top: 1px;
+    }
+    
+    h6 {
+        font-size: 13.9px!important;
+    }
